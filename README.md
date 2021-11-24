@@ -11,4 +11,3 @@
 - [HTML and CSS By: Jon Ducket](http://www.htmlandcssbook.com/)
 
 ## Screenshot
-![mockupScreenShot](https://user-images.githubusercontent.com/87950670/134278264-d272274a-0cf4-4497-9027-4a7e0fdb1511.png)
