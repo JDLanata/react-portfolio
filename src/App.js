@@ -51,6 +51,9 @@ function App() {
         <Nav.Item>
           <Nav.Link className='link-color' href="https://www.linkedin.com/in/jdlanata/">Linkedin</Nav.Link>
         </Nav.Item>
+        <Nav.Item>
+          <Nav.Link className='link-color' href="https://drive.google.com/file/d/1Fu9nH9CIR3g9lfYdsFo6fTT7AQR2VFGn/view?usp=sharing" target = "_blank">Resume</Nav.Link>
+        </Nav.Item>
         </Nav>
 
       </footer>
